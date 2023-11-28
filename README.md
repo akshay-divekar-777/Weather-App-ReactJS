@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Weather-App-ReactJS
+>>>>>>> 5ec6f5eec7059e542f10e0756a82ac0930206fbe
 <p align="center">
 <img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
 </p>
